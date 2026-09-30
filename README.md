@@ -83,7 +83,7 @@ The final Excel dashboard brings all the analysis together into one interactive 
 - Interactive slicers to filter by branch, city, cuisine, and payment mode
 
 **Default view (all branches):**
-![Dashboard Default View](dashboard_default.png)
+![Dashboard Default View](dashboard.png)
 
 **Filtered by Branch = BLR01, Delivery Status = Normal:**
 ![Dashboard Filtered BLR01](dashboard_filter_blr01.png)
