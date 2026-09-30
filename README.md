@@ -53,6 +53,12 @@ The workbook is structured across multiple sheets:
 - **Pivot Tables** — pivot summaries powering the dashboard visuals
 - **Dashboard** — final interactive report with slicers for branch, city, cuisine, and payment mode
 
+**Raw data (before cleaning):**
+![Raw Data Sample](raw_data_sample.png)
+
+**Cleaned data (after standardization):**
+![Clean Data Sample](clean_data_sample.png)
+
 ---
 
 ## 🔍 Analysis Approach
@@ -76,9 +82,17 @@ The final Excel dashboard brings all the analysis together into one interactive 
 - Payment mode split (Cash / UPI / Credit-Debit Card)
 - Interactive slicers to filter by branch, city, cuisine, and payment mode
 
+**Default view (all branches):**
+![Dashboard Default View](dashboard_default.png)
+
+**Filtered by Branch = BLR01, Delivery Status = Normal:**
+![Dashboard Filtered BLR01](dashboard_filter_blr01.png)
+
+**Filtered by Branch = KL02, Delivery Status = Slow:**
+![Dashboard Filtered KL02 Slow](dashboard_filter_kl02_slow.png)
+
 🎥 Live demo: [`Dashboard live.mp4`](Dashboard%20live.mp4)
 
----
 
 ## 💡 Key Insights
 
