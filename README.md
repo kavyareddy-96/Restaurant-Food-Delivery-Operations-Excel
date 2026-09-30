@@ -109,7 +109,3 @@ The final Excel dashboard brings all the analysis together into one interactive 
 4. Go to the **Dashboard** sheet and use the slicers to filter by branch, city, cuisine, or payment mode.
 5. Or just watch `Dashboard live.mp4` for a quick walkthrough without opening Excel.
 
-
-**Yelluru Kavya**
-Data Analyst | SQL • Power BI • Python • Excel
-📧 yellurukavya06@gmail.com | [LinkedIn](#) | [GitHub](#)
